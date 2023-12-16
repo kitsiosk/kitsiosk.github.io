@@ -10,8 +10,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to my personal website
 footer_text: >
 Welcome 2
-keywords: >
-Software engineering, Machine learning
+#keywords: > Software engineering, Machine learning
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
