@@ -2,96 +2,65 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Konstantinos Kitsios
     - name: Date of Birth
-      value: 14th March 1879
+      value: 22 June 1998
     - name: Languages
-      value: English, German
+      value: Greek, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD student
       institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      year: September 2023 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - PhD student supervised by professor Alberto Bacchelli and the ZEST group. My research interests lie in the interesectionof Software Engineering and Machine Learning.
+        - title: Teaching
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Software Construction [Fall Semester 2023]
+            - Effective Software Testing [Spring Semester 2024]
+    - title: 5-year integrated M.Sc./M.Eng.
+      institution: Aristotle University of Thessaloniki, School of Electrical and Computer Engineering
+      year: 2016-2021
       description:
-        - Description 1.
-        - Description 2.
+        - "GPA: 9.00/10.00"
+        - "Master thesis: Text Classification Using Unsupervised Learning Techniques"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Software Engineer
+      institution: Tesla
+      year: 2022-2023
+      description: Design and implementation of an in-house distributed computing system to handle large amounts of motor simulation data using MATLAB and Microsoft SQL Server.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Associate Software Engineer
+      institution: Tesla
+      year: 2021-2022
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Software Engineering Intern
+      institution: Tesla
+      year: 2020-2021
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: NLP Intern
+      institution: Visualeyes
+      year: 2019-2019
+      description: Conducted research on algorithms for steering Natural Language Generation into specific semantic spaces using Pytorch as a Deep Learning framework and HugginFace for manipulating Transformer models (GPT-2 back then).
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - title: Bronze medal
+      year: 2018
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - South Eastern European Mathematical Olympiad for University Students 2018 | Iasi, Romania
+    - title: Bronze medal
+      year: 2017
       items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - South Eastern European Mathematical Olympiad for University Students 2017 | Ohrid, North Macedonia
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Volleyball, Chess, Reading
