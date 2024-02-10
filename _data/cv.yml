@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 22 June 1998
     - name: Languages
-      value: Greek, English
+      value: German (in progress), English, Greek
 
 - title: Education
   type: time_table
