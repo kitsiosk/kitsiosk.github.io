@@ -20,6 +20,6 @@ I am a Ph.D. student at University of Zurich, supervised by professor [Alberto B
 
 Previously, I worked as a software engineer at [Tesla](https://www.tesla.com) on distributed software systems and databases and I obtained my M.Eng. degree from [Aristotle University of Thessaloniki, Greece](https://ece.auth.gr/en/home/).
 
-I like to spend my free time playing (beach) volleyball, chess, and music (bouzouki/guitar). Reading fantasy literature is another thing I'm passionate about, especially J.R.R. Tolkien. Of course, I also love travelling to new places, but who doesn't?
+I like to spend my free time playing (beach) volleyball, chess, and music (bouzouki/guitar). Reading fantasy literature is another thing I'm passionate about, especially J.R.R. Tolkien.
 
 > "A thought is an idea in transit." - Pythagoras
