@@ -51,6 +51,12 @@
       institution: Visualeyes
       year: 2019-2019
       description: Conducted research on algorithms for steering Natural Language Generation into specific semantic spaces using Pytorch as a Deep Learning framework and HugginFace for manipulating Transformer models (GPT-2 back then).
+    
+    - title: Software developer intern
+      institution: Aristole University IT Center
+      year: 2018-2019
+      description: Developed code for the the university's android application, used by tens of thousands of students. 
+
 
 - title: Honors and Awards
   type: time_table
