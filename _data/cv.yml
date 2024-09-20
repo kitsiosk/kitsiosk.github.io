@@ -25,7 +25,7 @@
         - title: Thesis supervision
           contents: 
             - Effective Mutations for Greybox Fuzzing using Machine Learning (In progress) - Lucas Steffen Krauter - MSc
-            - An Empirical Study of the Mutation Strategy of AFLNet (In progress) - Anton CrazzolaraAnton Crazzolara - MSc
+            - An Empirical Study of the Mutation Strategy of AFLNet (In progress) - Anton Crazzolara - MSc
             - Investigating Toxicity in Open Source Software - Szymon Kaczmarski - MSc
             - Predicting Pull Request Outcome Using Deep Learning - Eric Vincent Leger - BSc
     - title: 5-year integrated M.Sc./M.Eng.
