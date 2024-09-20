@@ -18,12 +18,16 @@
         - PhD student supervised by professor Alberto Bacchelli and the ZEST group. My research interests lie in the interesectionof Software Engineering and Machine Learning.
         - title: Teaching
           contents:
-            - Software Construction [M.Sc. + B.Sc. - Fall 2023]
-            - Effective Software Testing [M.Sc. - Spring 2024]
-            - Empirical Software Engineering [Seminar - B.Sc. - Spring 2024]
+            - Software Construction [MSc. + BSc. - Fall 2024]
+            - Effective Software Testing [MSc. - Spring 2024]
+            - Empirical Software Engineering [Seminar - BSc - Spring 2024]
+            - Software Construction [MSc. + BSc - Fall 2023]
         - title: Thesis supervision
           contents: 
-            - Predicting pull request outcome using deep learning (In progress)
+            - Effective Mutations for Greybox Fuzzing using Machine Learning (In progress) - Lucas Steffen Krauter - MSc
+            - An Empirical Study of the Mutation Strategy of AFLNet (In progress) - Anton CrazzolaraAnton Crazzolara - MSc
+            - Investigating Toxicity in Open Source Software - Szymon Kaczmarski - MSc
+            - Predicting Pull Request Outcome Using Deep Learning - Eric Vincent Leger - BSc
     - title: 5-year integrated M.Sc./M.Eng.
       institution: Aristotle University of Thessaloniki, School of Electrical and Computer Engineering
       year: 2016-2021
@@ -61,6 +65,10 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - title: Bodossaki Foundation Scholarship for PhD Students
+      year: 2024-2027
+      items: 
+        - Grateful to be supported by the Bodossaki Foundation during my PhD
     - title: Bronze medal
       year: 2018
       items: 
