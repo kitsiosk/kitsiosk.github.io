@@ -1088,12 +1088,14 @@ nav[data-toggle="toc"] {
   outline: none;
 }
 
-.social-icon:hover .svg-icon {
-  filter: brightness(0) saturate(100%) invert(25%) sepia(64%) saturate(500%) hue-rotate(252deg) brightness(85%) contrast(94%);
-  transition: filter 0.3s ease; /* Smooth transition */
-}
+// .social-icon:hover .svg-icon {
+//   filter: brightness(0) saturate(100%) invert(25%) sepia(64%) saturate(500%) hue-rotate(252deg) brightness(85%) contrast(94%);
+//   transition: filter 0.3s ease; /* Smooth transition */
+// }
 
 .svg-icon {
-  transition: filter 0.3s ease; /* Smooth transition */
+  fill: currentColor; /* Match the parent link color */
+  transition: fill 0.3s ease; /* Smooth transition for color changes */
+  // transition: filter 0.3s ease; /* Smooth transition */
   vertical-align: initial !important; /* Without this the icon is not properly aligned */
 }
