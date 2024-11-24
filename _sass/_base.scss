@@ -1067,3 +1067,19 @@ nav[data-toggle="toc"] {
 #toc-sidebar {
   z-index: 1;
 }
+
+.social-icon:hover {
+  color: purple; /* Ensure the parent link color changes */
+}
+
+.social-icon:hover .svg-icon {
+  filter: brightness(0) saturate(100%) invert(25%) sepia(64%) saturate(500%) hue-rotate(252deg) brightness(85%) contrast(94%);
+  transition: filter 0.3s ease; /* Smooth transition */
+}
+
+.svg-icon {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  transition: filter 0.3s ease; /* Smooth transition */
+}
