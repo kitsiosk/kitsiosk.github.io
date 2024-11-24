@@ -1069,7 +1069,7 @@ nav[data-toggle="toc"] {
 }
 
 .social-icon:hover {
-  color: rgb(181, 9, 172); /* Ensure the parent link color changes */
+  color: var(--global-theme-color); /* Ensure the parent link color changes */
 }
 
 .social-icon:hover .svg-icon {
