@@ -354,18 +354,7 @@ blockquote {
   .contact-icons {
     font-size: 4rem;
 
-    a {
-      i::before {
-        color: var(--global-text-color);
-        transition-property: all 0.2s ease-in-out;
-      }
 
-      &:hover {
-        i::before {
-          color: var(--global-theme-color);
-        }
-      }
-    }
   }
 
   .contact-note {
@@ -1070,20 +1059,22 @@ nav[data-toggle="toc"] {
 
 
 .social-icon {
-  text-decoration: none; /* Remove underline by default */
-  border: none; /* Ensure no border */
-  outline: none; /* Prevent focus outlines */
-  box-shadow: none; /* Prevent shadows */
+  /* Without the following a buggy slash appears on hover */
+  text-decoration: none; 
+  border: none; 
+  outline: none; 
+  box-shadow: none;
 }
 
 
 .social-icon:hover {
-  color: var(--global-theme-color); /* Ensure the parent link color changes */
-  text-decoration: none; /* Remove underline on hover */
+  color: var(--global-theme-color);
+  text-decoration: none;   /* Without this a buggy slash appears on hover */
 }
 
+/* Without this a buggy slash appears on hover */
 .social-icon:focus {
-  outline: none; /* Remove default focus outline */
+  outline: none;
 }
 
 .social-icon:hover .svg-icon {
@@ -1091,7 +1082,6 @@ nav[data-toggle="toc"] {
 }
 
 .svg-icon {
-  /*display: inline-block; */
   transition: filter 0.3s ease; /* Smooth transition */
-  vertical-align: initial !important;
+  vertical-align: initial !important; /* Without this the icon is not properly aligned */
 }
