@@ -1068,8 +1068,22 @@ nav[data-toggle="toc"] {
   z-index: 1;
 }
 
+
+.social-icon {
+  text-decoration: none; /* Remove underline by default */
+  border: none; /* Ensure no border */
+  outline: none; /* Prevent focus outlines */
+  box-shadow: none; /* Prevent shadows */
+}
+
+
 .social-icon:hover {
   color: var(--global-theme-color); /* Ensure the parent link color changes */
+  text-decoration: none; /* Remove underline on hover */
+}
+
+.social-icon:focus {
+  outline: none; /* Remove default focus outline */
 }
 
 .social-icon:hover .svg-icon {
