@@ -16,8 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student at [University of Zurich](https://www.uzh.ch/de.html), supervised by professor [Alberto Bacchelli](https://sback.it) and the [ZEST](https://www.ifi.uzh.ch/en/zest.html) group. My research interests lie at the intersection of Software Engineering, Machine Learning, and Software Security. Specifically, I focus on intelligent software testing techniques, mainly fuzzing.
-Additionally, I'm interesting in the development of deep learning models, datasets, and evaluation methods for software engineering downstream tasks like code clone detection or vulnerability detection. My research is also supported by the [Bodossaki Foundation](https://www.bodossaki.gr).
+I am a Ph.D. student at [University of Zurich](https://www.uzh.ch/de.html), supervised by professor [Alberto Bacchelli](https://sback.it) and the [ZEST](https://www.ifi.uzh.ch/en/zest.html) group. My research interests lie at the intersection of Software Engineering, Machine Learning, and Software Security.
+Additionally, I'm interested in the development of deep learning models, datasets, and evaluation methods for software engineering downstream tasks like code clone detection or test generation. My research is also supported by the [Bodossaki Foundation](https://www.bodossaki.gr).
 
 Previously, I worked as a software engineer at [Tesla](https://www.tesla.com) on distributed software systems and databases and I obtained my M.Eng. degree from [Aristotle University of Thessaloniki, Greece](https://ece.auth.gr/en/home/).
 
