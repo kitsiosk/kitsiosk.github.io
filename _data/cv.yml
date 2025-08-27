@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 22 June 1998
     - name: Languages
-      value: German (in progress), English, Greek
+      value: English, Greek, German (in progress), 
 
 - title: Education
   type: time_table
@@ -15,17 +15,19 @@
       institution: University of Zurich, Zurich, Switzerland
       year: Sept. 2023-now
       description:
-        - PhD student supervised by professor Alberto Bacchelli and the ZEST group. My research interests lie in the interesectionof Software Engineering and Machine Learning.
+        - PhD student supervised by professor Alberto Bacchelli.
         - title: Teaching
           contents:
+            - Software Systems Reliability [MSc. - Spring 2025]
             - Software Construction [MSc. + BSc. - Fall 2024]
             - Effective Software Testing [MSc. - Spring 2024]
             - Empirical Software Engineering [Seminar - BSc - Spring 2024]
             - Software Construction [MSc. + BSc - Fall 2023]
         - title: Thesis supervision
-          contents: 
-            - Effective Mutations for Greybox Fuzzing using Machine Learning (In progress) - Lucas Steffen Krauter - MSc
-            - An Empirical Study of the Mutation Strategy of AFLNet (In progress) - Anton Crazzolara - MSc
+          contents:
+            - Generating Regression Tests on Pull Request Creation Using Large Language Models - Matthias Mylaeus - MSc
+            - Generating Mutator Sequences for Greybox Fuzzing using Natural Language Processing Techniques - Lucas Steffen Krauter - MSc
+            - An Empirical Study of the Mutation Strategy of AFLNet - Anton Crazzolara - MSc
             - Investigating Toxicity in Open Source Software - Szymon Kaczmarski - MSc
             - Predicting Pull Request Outcome Using Deep Learning - Eric Vincent Leger - BSc
     - title: 5-year integrated M.Sc./M.Eng.

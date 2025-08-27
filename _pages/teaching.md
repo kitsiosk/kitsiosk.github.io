@@ -8,6 +8,9 @@ nav_order: 5
 ---
 
 **University of Zurich**
+* Spring Semester 2025
+    - **Software Systems Reliability** (MSc - 3 ECTS)
+
 * Fall Semester 2024
     - **Software Construction** (MSc and BSc - 6 ECTS)
 
@@ -20,7 +23,8 @@ nav_order: 5
 
 
 * Thesis supervision
-    - **Effective Mutations for Greybox Fuzzing using Machine Learning** (In progress) - Lucas Steffen Krauter - MSc
-    - **An Empirical Study of the Mutation Strategy of AFLNet** (In progress) - Anton Crazzolara - MSc
+    - **Generating Regression Tests on Pull Request Creation Using Large Language Models** - Matthias Mylaeus - MSc
+    - **Generating Mutator Sequences for Greybox Fuzzing using Natural Language Processing Techniques** - Lucas Steffen Krauter - MSc
+    - **An Empirical Study of the Mutation Strategy of AFLNet** - Anton Crazzolara - MSc
     - **Investigating Toxicity in Open Source Software** - Szymon Kaczmarski - MSc
     - **Predicting Pull Request Outcome Using Deep Learning** - Eric Vincent Leger - BSc
