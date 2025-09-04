@@ -171,13 +171,6 @@ collections:
     output: true
     permalink: /projects/:path/
 
-defaults:
-  - scope:
-      path: ""
-      type: "news"
-    values:
-      layout: post
-
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
@@ -241,7 +234,11 @@ defaults:
       path: "assets"
     values:
       sitemap: false
-
+  - scope:
+      path: ""
+      type: "news"
+    values:
+      layout: post
 sass:
   style: compressed
 
