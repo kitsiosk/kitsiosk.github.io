@@ -165,13 +165,18 @@ external_sources:
 
 collections:
   news:
-    defaults:
-      layout: post
     output: true
     permalink: /news/:path/
   projects:
     output: true
     permalink: /projects/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "news"
+    values:
+      layout: post
 
 announcements:
   enabled: true
