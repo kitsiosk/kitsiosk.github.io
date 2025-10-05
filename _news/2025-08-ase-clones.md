@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Our paper 'Automated Generation of Issue-Reproducing Tests by Combining LLMs and Search-Based Testing' has been accepted to ASE ’25!"
+title: unseen_clones_ase
 date: 2025-08-14
 inline: true
 ---
-[Read more →](/publications/)
+Our paper [Detecting Semantic Clones of Unseen Functionality](https://zenodo.org/records/17238379) has been accepted to ASE ’25!
