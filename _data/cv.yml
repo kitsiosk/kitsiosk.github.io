@@ -16,20 +16,6 @@
       year: Sept. 2023-now
       description:
         - PhD student supervised by professor Alberto Bacchelli.
-        - title: Teaching
-          contents:
-            - Software Systems Reliability [MSc. - Spring 2025]
-            - Software Construction [MSc. + BSc. - Fall 2024]
-            - Effective Software Testing [MSc. - Spring 2024]
-            - Empirical Software Engineering [Seminar - BSc - Spring 2024]
-            - Software Construction [MSc. + BSc - Fall 2023]
-        - title: Thesis supervision
-          contents:
-            - Generating Regression Tests on Pull Request Creation Using Large Language Models - Matthias Mylaeus - MSc
-            - Generating Mutator Sequences for Greybox Fuzzing using Natural Language Processing Techniques - Lucas Steffen Krauter - MSc
-            - An Empirical Study of the Mutation Strategy of AFLNet - Anton Crazzolara - MSc
-            - Investigating Toxicity in Open Source Software - Szymon Kaczmarski - MSc
-            - Predicting Pull Request Outcome Using Deep Learning - Eric Vincent Leger - BSc
     - title: 5-year integrated M.Sc./M.Eng.
       institution: Aristotle University of Thessaloniki, School of Electrical and Computer Engineering
       year: 2016-2021
