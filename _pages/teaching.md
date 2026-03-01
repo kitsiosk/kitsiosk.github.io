@@ -7,7 +7,11 @@ nav: true
 nav_order: 5
 ---
 
-**University of Zurich**
+During my PhD, I have been a TA in the following courses:
+* Spring Semester 2026
+    - **Software Systems Reliability** (MSc - 3 ECTS)
+* Fall Semester 2025
+    - **Foundations of Software Systems** (MSc and BSc - 6 ECTS)   
 * Spring Semester 2025
     - **Software Systems Reliability** (MSc - 3 ECTS)
 
