@@ -14,6 +14,7 @@ news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+service: true
 ---
 
 I am a Ph.D. student at the [University of Zurich](https://www.uzh.ch/de.html), supervised by Prof. [Alberto Bacchelli](https://sback.it) and the [ZEST](https://www.ifi.uzh.ch/en/zest.html) group since September 2023. 
