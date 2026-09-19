@@ -1,0 +1,7 @@
+---
+layout: post
+title: CREST Open Workshop
+date: 2026-09-21
+inline: true
+---
+[Alberto Bacchelli](https://sback.it/) and I were invited to give a talk at the [71st CREST Open Workshop on Agentic Testing and Verification](https://www.ucl.ac.uk/crest/events/2026/sep/71st-crest-open-workshop-agentic-testing-and-verification) in London, UK.
